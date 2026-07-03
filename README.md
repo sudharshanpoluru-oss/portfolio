@@ -145,9 +145,9 @@ Contributions, ideas, and suggestions are always welcome.
 **Sudharshan**
 
 * 🔗 GitHub: https://github.com/sudharshanpoluru-oss
-* 💼 LinkedIn: [Your Profile URL]
-* 🌐 Portfolio: [Your Live Website URL]
-* 📧 Email: [Your Professional Email]
+* 💼 LinkedIn: https://www.linkedin.com/in/poluru-sudharshan-b3b99b273
+* 🌐 Portfolio: https://portfolio-phi-steel-31.vercel.app/
+* 📧 Email: sudharshanpoluru@gmail.com
 
 ---
 
