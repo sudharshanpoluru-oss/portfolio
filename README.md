@@ -39,6 +39,7 @@ The portfolio is designed with a strong focus on performance, responsiveness, ac
 * 👤 About Me section
 * 🛠️ Skills & Technology Stack
 * 🚀 Featured Projects showcase
+* 📱 **College Hostel Management System** — Flutter mobile app + React.js/Node.js web app with Supabase backend. Three role-based logins (Admin, Warden, Student). Students self-register; wardens are scoped by hostel type (girls' hostel warden sees only girls' data, boys' hostel warden only boys' data). See [college_hostel_app](https://github.com/sudharshanpoluru-oss/college_hostel_app)
 * 🎓 Certifications section
 * 📧 Contact form
 * 🧭 Clean and intuitive navigation
