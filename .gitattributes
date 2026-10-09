@@ -1,0 +1,8 @@
+# Treat binaries as binary - no line-ending conversion, no text diff
+*.pdf binary
+*.apk binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text
+*.mp4 binary
