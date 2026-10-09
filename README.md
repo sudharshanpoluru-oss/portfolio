@@ -147,7 +147,7 @@ Contributions, ideas, and suggestions are always welcome.
 
 * 🔗 GitHub: https://github.com/sudharshanpoluru-oss
 * 💼 LinkedIn: https://www.linkedin.com/in/poluru-sudharshan-b3b99b273
-* 🌐 Portfolio: https://portfolio-7nxzmrryi-sudharshan1.vercel.app/
+* 🌐 Portfolio: https://portfolio-inv892nos-sudharshan1.vercel.app/
 * 📧 Email: sudharshanpoluru@gmail.com
 
 ---
